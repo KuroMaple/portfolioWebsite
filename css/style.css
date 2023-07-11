@@ -400,6 +400,7 @@ h3{font-size: var(--fs-h3);}
   .portfolio__img {
     transition: transform 750ms cubic-bezier(.5, 0, .5, 1),
     opacity 250ms linear;
+    height: 100%;
   }
 
   .portfolio__item:focus {
